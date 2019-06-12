@@ -1,7 +1,7 @@
 # Welcome to SEB Design Library
 
 ### For SEB employees
-https://designlibrary.sebank.se/
+http://designlibrary.sebank.se/
 
 ### For everyone else
 https://designlibrary.sebgroup.com/
